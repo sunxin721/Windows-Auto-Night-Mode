@@ -1236,15 +1236,15 @@ GitHub 上发布了新版本，修复了一些漏洞并增加了新功能。
     <value>手动</value>
   </data>
   <data name="SwitchModesButtonAddProcess" xml:space="preserve">
-    <value>添加</value>
+    <value>Add</value>
   </data>
   <data name="SwitchModesButtonRemoveProcess" xml:space="preserve">
-    <value>删除</value>
+    <value>Remove</value>
   </data>
   <data name="SwitchModesExpanderHeaderBlockedProcesses" xml:space="preserve">
-    <value>阻塞进程</value>
+    <value>Blocking Processes</value>
   </data>
   <data name="SwitchModesCheckBoxProcessBlockList" xml:space="preserve">
-    <value>当某些进程运行时不进行切换</value>
+    <value>Don't switch while certain processes are running</value>
   </data>
 </root>
